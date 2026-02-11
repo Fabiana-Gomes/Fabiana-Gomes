@@ -79,8 +79,6 @@ With a background in Technical Support, I developed strong problem-solving and s
 <br/>
 <br/>
 
-<!--
-
 ### 📊 Estatísticas
 
 <p>
@@ -100,4 +98,4 @@ With a background in Technical Support, I developed strong problem-solving and s
   />
 
 </p>
--->
+
