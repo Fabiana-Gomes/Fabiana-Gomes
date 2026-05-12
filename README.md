@@ -1,9 +1,8 @@
 # 👩🏻‍💻 Fabiana Gomes Fernandes
 
-**`Junior Full Stack Developer`**
+**`Fullstack Developer`**
 
-My name is Fabiana Fernandes. I hold a Technical Degree in Information Technology and am currently pursuing a degree in Systems Analysis. I have experience in maintaining and improving web applications using PHP and MySQL.
-With a background in Technical Support, I developed strong problem-solving and system troubleshooting skills. Currently, I work as a Junior Full Stack Developer, focused on back-end development, bug fixing, and system improvements, while continuing to study front-end technologies like JavaScript and React.
+I am a Backend-focused Fullstack Developer with extensive experience managing PHP 8+ and MySQL applications in production environments. With a background in Technical IT and currently pursuing a degree in Systems Analysis, I specialize in system reliability, performance optimization, and the integration of RESTful APIs. My professional path from Technical Support to Development has equipped me with a high-level troubleshooting mindset, enabling me to diagnose complex bugs and optimize database queries efficiently. Currently, I am responsible for maintaining core system integrity, managing AWS-based infrastructure, and implementing scalable backend solutions that prioritize code quality and system uptime.
 
 🔗 LinkedIn: https://www.linkedin.com/in/fabiana-gomes-fernandes/
 
